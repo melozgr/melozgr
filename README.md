@@ -3,8 +3,8 @@
 Welcome to my GitHub profile!
 
 ## About Me
-- 🔭 I’m currently not working.
-- 🌱 I’m currently not learning.
+- 🔭 I’m currently .
+- 🌱 I’m .
 - 👯 Hello.
 - 💥 EPFL Student
 - 🧬 Live Love Chemistry <3

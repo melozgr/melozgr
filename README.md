@@ -3,11 +3,8 @@
 Welcome to my GitHub profile!
 
 ## About Me
-- 🔭 I’m currently .
-- 🌱 I’m .
-- 👯 Hello.
-- 💥 EPFL Student
-- 🧬 Live Love Chemistry <3
+- 🔭 I’m currently studying at EPFL.
+- 💥 Chemical Engineering Student
 
 
 Thank you for visiting my profile!
